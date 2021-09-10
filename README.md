@@ -1,2 +1,2 @@
 # LineComparison
-Welcome to the Line Comparison Problem.
+Welcome to the Line Comparison Computation Problem.
